@@ -13,6 +13,8 @@ Over the years I was able to create and be part of some awesome projects mainly 
   </em>
 </div>
 
+<br>
+
 <div align="left">
 <fieldset style="border: 2px solid #0099ff; border-radius: 10px; padding: 20px; max-width: 800px;">
   <legend align="left"><h3>🛠️ Tech Stack</h3></legend>
@@ -38,6 +40,8 @@ Over the years I was able to create and be part of some awesome projects mainly 
   <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-002DFF?style=flat-square&logo=asm&logoColor=white" />
 </p>
 </div>
+
+<br>
 
 <div align="left">
 <fieldset style="border: 2px solid #0099ff; border-radius: 10px; padding: 20px; max-width: 800px;">
