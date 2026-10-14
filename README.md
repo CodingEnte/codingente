@@ -48,7 +48,7 @@ Over the years I was able to create and be part of some awesome projects mainly 
   <legend align="left"><h3>Current Project</h3></legend>
 
   <em>
-Currently shipping <img width="12px" src="https://cadly.me/cadly-blue.png" /> <strong>CADLY</strong>, a powerful moderation and dispatch platform for Discord roleplay communities.</p> 
+Currently shipping <img width="12px" src="https://cadly.me/cadly-blue.png" /> <strong>CADLY</strong>, a powerful moderation and dispatch platform for Discord roleplay communities.<br>
 🔗 <strong><a href="https://cadly.me">cadly.me</a></strong>
   </em>
 </div>
