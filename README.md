@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ente 👋</h1>
+<h1 align="center"><a href="https://clasch.dev">Hi, I'm Ente 👋</h1></a>
 <h3 align="center"><a href="https://clasch.dev">Software Developer | System Engineer | Designer</h3></a>
 
 <div align="left">
