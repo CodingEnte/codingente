@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ente 👋</h1>
-<h3 align="center">Software Developer | Discord Bot Builder | Designer</h3>
+<h3 align="center">Software Developer | System Engineer | Designer</h3>
 
 <div align="left">
 <fieldset style="border: 2px solid #0099ff; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👨‍💻 About Me</h3></legend>
+  <legend align="left"><h3>About Me</h3></legend>
 
   <em>
 I'm a fullstack developer and started my journey back in 2020 where I first got interested in programming.<br>
@@ -17,7 +17,7 @@ Over the years I was able to create and be part of some awesome projects mainly 
 
 <div align="left">
 <fieldset style="border: 2px solid #0099ff; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>🛠️ Tech Stack</h3></legend>
+  <legend align="left"><h3>Tech Stack</h3></legend>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-00BBFF?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-00B3FF?style=flat-square&logo=python&logoColor=white" />
@@ -45,20 +45,11 @@ Over the years I was able to create and be part of some awesome projects mainly 
 
 <div align="left">
 <fieldset style="border: 2px solid #0099ff; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>🚀 Current Project</h3></legend>
+  <legend align="left"><h3>Current Project</h3></legend>
 
   <em>
 Currently shipping <img width="12px" src="https://cadly.me/cadly-blue.png" /> <strong>CADLY</strong>, a powerful moderation and dispatch platform for Discord roleplay communities.</p> 
-
-**CADLY** features:
-- 🛠️ Full in-game moderation capabilities with ER:LC
-- ⚙️ Every feature fully customizable to your liking
-- 🚓 100% free CAD for every server's department
-- 🕜 Track, automate, and configure shifts for your staff <br> 
-... and so much more
-<br>
-
-🔗 <strong><a href="https://cadly.me">cadly.me  | ⭐ The All-In-One ER:LC tool</a></strong>
+🔗 <strong><a href="https://cadly.me">cadly.me</a></strong>
   </em>
 </div>
 
